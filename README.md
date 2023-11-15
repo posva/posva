@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Keeping the Vue Ecosystem ⚡️⚡️
+    Keeping the Vue Ecosystem enjoyable ⚡️
     <br/>
     <a href="https://esm.dev">www</a> ᐧ
     <a href="https://x.com/posva">X</a> ᐧ
